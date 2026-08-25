@@ -17,7 +17,7 @@ Estou no início da minha jornada no universo do desenvolvimento de software! At
 
 ### 🛠️ O que estou estudando no momento
 
-- **Fundamentos:** Lógica de Programação, Algoritmos
+- **Fundamentos:** Lógica de Programação, Algoritmos, C++, Desenvolvimento Front-end para web
 - **Ferramentas:** Git, GitHub
 - **Acadêmico:** Análise e Desenvolvimento de Sistemas (ADS)
 

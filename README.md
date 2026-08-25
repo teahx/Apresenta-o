@@ -1,4 +1,4 @@
-# Olá! Eu sou o Tiago 👋
+# Olá! Eu sou o Tiago Henrique Bispo da Silva 👋
 
 🎓 **Estudante de Análise e Desenvolvimento de Sistemas**
 

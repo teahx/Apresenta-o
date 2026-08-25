@@ -26,6 +26,5 @@ Estou no início da minha jornada no universo do desenvolvimento de software! At
 ### 📫 Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bispotiago/)
+[![Linktree](https://img.shields.io/badge/Linktree-13C656?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/tiagothh)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiago.2013henrique38@gmail.com)
-
-
